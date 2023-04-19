@@ -1,0 +1,6 @@
+framework module EWYmodemSDK {
+  umbrella header "EWYmodemSDK.h"
+
+  export *
+  module * { export * }
+}
